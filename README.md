@@ -1,1 +1,1 @@
-# brews
+International breweries Group Manager(Mr Emmanuel) wants to make a vital business decision from the past three years sales records from the company database to help the business grow effectively and increase profit. As a data analyst, he asked me to analysis the data about the organization profit and brand in each country and region inorder for him to make the decision effectively. SQL was used for the analysis
